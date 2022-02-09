@@ -1,0 +1,87 @@
+.secton-ground {
+    color: white;
+    background-color: #49e2e2;
+    width: 90%;
+    margin: 2%;
+    padding: 1% 4% 14%;
+}
+
+.text {
+    text-align: center;
+}
+
+.form {
+    width: 32%;
+    display: inline-block;
+    margin: 4% 9%;
+}
+
+.block {
+    display: block;
+    width: 98%;
+    margin: 2%;
+    border: 0;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.input-2 {
+    /*phone*/
+    float: right;
+    width: 45.5%;
+    margin-bottom: 2%;
+    display: inline;
+    margin-left: 1%;
+    border: 0%;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 2% 1%;
+    box-sizing: border-box;
+}
+
+.input-1 {
+    /*company*/
+    float: left;
+    width: 45.5%;
+    display: inline;
+    margin-bottom: 2%;
+    margin-right: 0%;
+    margin-left: 2%;
+    border: 0%;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 2% 1%;
+    box-sizing: border-box;
+}
+
+.width {
+    padding: 1px 8px;
+    margin: 1%;
+    width: 100%;
+    border: 0;
+    border-radius: 5%;
+    padding: 2%;
+}
+
+.margin-size {
+    margin: 0;
+}
+
+.button {
+    float: right;
+    border: 0;
+    border-radius: 5%;
+    background-color: yellow;
+    padding: 2%;
+    margin-top: 5%;
+    box-sizing: border-box;
+}
+
+.link {
+    text-decoration: none;
+    color: yellow;
+}
+
+form {
+    float: left;
+}
